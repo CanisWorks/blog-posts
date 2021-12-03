@@ -1,6 +1,6 @@
 # Monitoring Distributed Applications Demo.
 
-This is an example application to accompany this blog post: [Monitoring Distributed AWS Applications](https://medium.com/).
+This is an example application to accompany this blog post: [Monitoring Distributed AWS Applications](https://medium.com/canisworks/monitoring-distributed-aws-applications-ffe534c10124).
 
 Demonstrates how to use X-Ray to trace requests through a distributed application.
 
