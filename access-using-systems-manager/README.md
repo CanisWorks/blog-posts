@@ -1,6 +1,6 @@
-# Monitoring Distributed Applications Demo.
+# Systems Manager For Private Networks Demo.
 
-This is an example application to accompany this blog post: [Using AWS Systems Manager vs Bastion Hosts](https://medium.com/canisworks/).
+This is an example application to accompany this blog post: [Using AWS Systems Manager vs Bastion Hosts](https://medium.com/canisworks/aws-systems-manager-vs-bastion-hosts-for-private-networks-efe9a42f5ad7).
 
 Demonstrates how to control access to private services using Systems Manager.
 
