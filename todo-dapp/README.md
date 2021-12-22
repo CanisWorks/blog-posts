@@ -1,11 +1,10 @@
 # Decentralised React Todo List application.
 
-This is an example application to accompany this blog post: [Building Decentralised React Applications using Blockchain](https://medium.com/).
+This is an example application to accompany this blog post: [Building Decentralised React Applications using Blockchain](https://medium.com/canisworks/building-decentralised-react-applications-using-blockchain-e673ff646ad7).
 
 Demonstrates how to create a blockchain connected Todo List application.
 
 
-====
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
