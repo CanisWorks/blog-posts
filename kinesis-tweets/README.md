@@ -1,6 +1,6 @@
 # Twitter Streaming via Kinesis.
 
-This is an example application to accompany this blog post: [How Fast is AWS Kinesis](https://medium.com/canisworks).
+This is an example application to accompany this blog post: [How Fast is AWS Kinesis](https://tomwilderspin.medium.com/how-fast-is-aws-kinesis-db300c219cad).
 
 Demonstrates how to receive tweets from Twitter's streaming API, push them to Kinesis, then finally consume them in a web app (via iot mqtt websocket).
 
